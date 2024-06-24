@@ -1,2 +1,3 @@
 oven/bun:latest
 node:slim
+docker pull ghcr.io/xmdhs/clash2sfa:v0.13.1
